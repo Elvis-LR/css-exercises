@@ -27,7 +27,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-.content{
+.content {
   flex: 1;
   display: flex;
 }
@@ -38,16 +38,16 @@ body {
   flex: 1 0 auto;
   padding: 16px;
 }
-.sidebar a{
+.sidebar a {
   text-decoration: none;
   color: #eee;
   font-size: 24px;
 }
-ul{
+ul {
   list-style: none;
   padding: 0;
 }
-.cards{
+.cards {
   padding: 32px;
   display: flex;
   gap: 16px;
